@@ -12,7 +12,7 @@ class Game extends Component {
     render() { 
         return ( 
             <div className="container">
-                <h3>Play Nine</h3>
+                <h3>Play Nine Demo</h3>
                 <hr/>
                 <div className="row">
                     <Stars />
